@@ -1,4 +1,5 @@
 # Expected Output: Print numbers from 1 to 5
 i = 1
-while i <= 5:
+while i <= 5:    # Changed => to <=
     print(i)
+    i += 1       # Added increment
