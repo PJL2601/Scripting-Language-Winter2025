@@ -2,4 +2,4 @@
 count = 0
 while count < 5:
     print("Python is fun!")
-    count = count - 1  
+    count = count + 1  # or count += 1
